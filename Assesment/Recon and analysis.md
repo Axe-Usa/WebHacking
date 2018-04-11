@@ -6,7 +6,7 @@
 ### Automated discovery
 
 
-##### 1\. Sublist3r - Scanning for subdomains or [Sublist3r on multiply domains](https://github.com/Zawadidone/WebHacking/tree/master/Resources/Cheatsheet)
+##### 1\. Sublist3r - Scanning for subdomains
 ```
 sublist3r -d <domain>
 ```
@@ -26,14 +26,6 @@ cd Striker && python striker.py
 ```
 
 
-### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
-
-
-##### 1\.  - 
-```
-```
-
-
 ### Harvesting public information
 
 
@@ -44,7 +36,6 @@ Go to [Shodan](https://www.shodan.io/) -> Insert company name or domain -> Searc
 
 
 ### Target specifiec 
-
 
 ##### 1\. Burpsuite - Proxy tool
 Spider, scan, discover content and ....
@@ -74,5 +65,8 @@ dirb <url> -f
 
 
 ##### Others
+
+### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
+
 
 ![Recon](https://github.com/Zawadidone/WebHacking/blob/master/images/Recon.jpg?raw=true)
