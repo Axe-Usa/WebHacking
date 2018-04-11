@@ -1,6 +1,6 @@
 # WebHacking
 
-It still in progress and I like pull requests ;). I use other github repo's in the resources folder. If you don't like that send me a dm on [Twitter](https://twitter.com/ZawadiDone)
+It is still in progress and I like pull requests ;). I use other github repo's in the resources folder. If you don't like that send me a dm on [Twitter](https://twitter.com/ZawadiDone)
 
 ### Task Checklist
 
