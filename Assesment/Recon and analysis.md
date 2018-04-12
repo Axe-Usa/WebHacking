@@ -35,7 +35,7 @@ Search for ip addresses associate with the company
 Go to [Shodan](https://www.shodan.io/) -> Insert company name or domain -> Search -> Results :)
 
 
-### Target specifiec 
+### Target specifiec
 
 ##### 1\. Burpsuite - Proxy tool
 Spider, scan, discover content and ....
