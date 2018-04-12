@@ -66,7 +66,7 @@ dirb <url> -f
 
 ##### Others
 
-### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
+#### [Subdomaintakover tips and tricks](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
 
 
 ![Recon](https://github.com/Zawadidone/WebHacking/blob/master/images/Recon.jpg?raw=true)
