@@ -21,6 +21,6 @@ Use the [PTF Framework](https://github.com/trustedsec/ptf). If you already know 
 [I want to become a hacker](https://www.linkedin.com/pulse/career-how-become-web-pentester-gergely-r%C3%A9vay/)
 
 
-### Resources 
+### Resources where you can learn stuff
 * https://www.hacksplaining.com/
 * https://github.com/ethicalhack3r/DVWA
